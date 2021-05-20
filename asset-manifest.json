@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/cocina-economica/static/css/main.8f6f542e.chunk.css",
+    "main.js": "/cocina-economica/static/js/main.7a5d5d7d.chunk.js",
+    "main.js.map": "/cocina-economica/static/js/main.7a5d5d7d.chunk.js.map",
+    "runtime-main.js": "/cocina-economica/static/js/runtime-main.69c29bee.js",
+    "runtime-main.js.map": "/cocina-economica/static/js/runtime-main.69c29bee.js.map",
+    "static/css/2.4c97ca4f.chunk.css": "/cocina-economica/static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.0d133acf.chunk.js": "/cocina-economica/static/js/2.0d133acf.chunk.js",
+    "static/js/2.0d133acf.chunk.js.map": "/cocina-economica/static/js/2.0d133acf.chunk.js.map",
+    "index.html": "/cocina-economica/index.html",
+    "static/css/2.4c97ca4f.chunk.css.map": "/cocina-economica/static/css/2.4c97ca4f.chunk.css.map",
+    "static/css/main.8f6f542e.chunk.css.map": "/cocina-economica/static/css/main.8f6f542e.chunk.css.map",
+    "static/js/2.0d133acf.chunk.js.LICENSE.txt": "/cocina-economica/static/js/2.0d133acf.chunk.js.LICENSE.txt",
+    "static/media/Logo.39498a22.jpeg": "/cocina-economica/static/media/Logo.39498a22.jpeg",
+    "static/media/index.css": "/cocina-economica/static/media/background.58ba4a00.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.69c29bee.js",
+    "static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.0d133acf.chunk.js",
+    "static/css/main.8f6f542e.chunk.css",
+    "static/js/main.7a5d5d7d.chunk.js"
+  ]
+}
